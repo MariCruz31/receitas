@@ -1,4 +1,3 @@
-// mongodb+srv://cruzmariene124:verde@cluster0.6djwvq1.mongodb.net/receitas
 
 import mongoose from "mongoose";
 
