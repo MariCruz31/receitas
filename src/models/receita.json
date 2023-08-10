@@ -1,0 +1,270 @@
+[
+   {
+     "nome": "nome da receita",
+     "tempo_de_cozimento": "tempo de cozimento",
+     "ingredientes": [
+       "ingrediente 1",
+       "ingrediente 2",
+       "ingrediente 3",
+       "ingrediente 4",
+       "ingrediente 5",
+       "ingrediente 6"
+     ],
+     "modo_de_preparo": "modo de preparo"
+   },
+   {
+     "nome": "Lasanha à Bolonhesa",
+     "tempo_de_cozimento": "1 hora e 30 minutos",
+     "ingredientes": [
+       "500g de massa para lasanha",
+       "400g de carne moída",
+       "1 cebola picada",
+       "2 dentes de alho picados",
+       "2 latas de molho de tomate",
+       "2 xícaras de queijo muçarela ralado",
+       "2 xícaras de queijo parmesão ralado",
+       "Sal e pimenta a gosto"
+     ],
+     "modo_de_preparo": "Em uma panela, refogue a cebola e o alho até dourarem. Adicione a carne moída e cozinhe até ficar bem cozida. Tempere com sal e pimenta a gosto e acrescente o molho de tomate. Em um refratário, alterne camadas de massa, carne e queijo muçarela. Repita as camadas até terminarem os ingredientes. Finalize com queijo parmesão por cima. Asse em forno preaquecido a 200°C por aproximadamente 30 minutos ou até que a lasanha esteja dourada e borbulhante."
+   },
+   {
+     "nome": "Bolo de Chocolate",
+     "tempo_de_cozimento": "1 hora",
+     "ingredientes": [
+       "2 xícaras de farinha de trigo",
+       "1 xícara de açúcar",
+       "1 xícara de chocolate em pó",
+       "1 xícara de leite",
+       "1/2 xícara de óleo",
+       "2 ovos",
+       "1 colher de sopa de fermento em pó"
+     ],
+     "modo_de_preparo": "Misture todos os ingredientes em uma tigela, exceto o fermento. Depois de bem misturado, adicione o fermento e coloque a massa em uma forma untada. Asse em forno preaquecido a 180°C por aproximadamente 40 minutos ou até que o bolo esteja assado."
+   },
+   {
+     "nome": "Pudim de Leite Condensado",
+     "tempo_de_cozimento": "1 hora",
+     "ingredientes": [
+       "1 lata de leite condensado",
+       "1 lata de leite",
+       "3 ovos",
+       "1 xícara de açúcar",
+       "1/2 xícara de água"
+     ],
+     "modo_de_preparo": "Em uma forma de pudim, derreta o açúcar com a água em fogo baixo até formar uma calda caramelizada. Reserve. No liquidificador, bata o leite condensado, o leite e os ovos até ficar homogêneo. Despeje essa mistura na forma caramelizada. Cubra a forma com papel-alumínio e leve ao forno preaquecido a 180°C em banho-maria por aproximadamente 40 minutos ou até que o pudim esteja firme. Deixe esfriar completamente antes de desenformar."
+   },
+   {
+     "nome": "Bobó de Camarão",
+     "tempo_de_cozimento": "1 hora",
+     "ingredientes": [
+       "500g de camarão descascado",
+       "500g de mandioca descascada e picada",
+       "2 tomates picados",
+       "1 cebola picada",
+       "3 dentes de alho picados",
+       "200ml de leite de coco",
+       "200ml de caldo de camarão",
+       "Azeite de dendê a gosto",
+       "Coentro a gosto",
+       "Sal e pimenta a gosto"
+     ],
+     "modo_de_preparo": "Cozinhe a mandioca em água fervente até que esteja macia. Escorra e reserve. Em uma panela grande, refogue a cebola e o alho no azeite de dendê até dourarem. Adicione os tomates, o caldo de camarão e deixe cozinhar por alguns minutos. Adicione a mandioca cozida e amasse até formar um creme. Acrescente o leite de coco, o camarão e cozinhe até o camarão ficar cozido. Tempere com sal e pimenta a gosto e finalize com coentro. Sirva acompanhado de arroz branco."
+   },
+   {
+     "nome": "Pão de Queijo",
+     "tempo_de_cozimento": "30 minutos",
+     "ingredientes": [
+       "500g de polvilho doce",
+       "250ml de leite",
+       "100ml de óleo",
+       "2 ovos",
+       "100g de queijo parmesão ralado",
+       "100g de queijo muçarela ralado",
+       "Sal a gosto"
+     ],
+     "modo_de_preparo": "Em uma panela, aqueça o leite com o óleo e uma pitada de sal até ferver. Despeje essa mistura sobre o polvilho doce e misture bem. Adicione os ovos e os queijos ralados à massa e continue mexendo até ficar homogêneo. Modele bolinhas com a massa e coloque em uma assadeira untada. Asse em forno preaquecido a 180°C por cerca de 20 minutos ou até que os pãezinhos estejam dourados."
+   },
+   {
+     "nome": "Salada Caesar",
+     "tempo_de_cozimento": "15 minutos",
+     "ingredientes": [
+       "1 pé de alface romana lavado e rasgado",
+       "1 xícara de croutons",
+       "1/2 xícara de queijo parmesão ralado",
+       "1/4 de xícara de azeite de oliva",
+       "2 colheres de sopa de suco de limão",
+       "1 dente de alho picado",
+       "1 colher de chá de mostarda dijon",
+       "1 colher de chá de molho inglês",
+       "Sal e pimenta a gosto"
+     ],
+     "modo_de_preparo": "Em uma tigela grande, misture o alface, os croutons e o queijo parmesão. Em um recipiente à parte, misture o azeite, o suco de limão, o alho picado, a mostarda e o molho inglês. Tempere com sal e pimenta a gosto. Regue a salada com o molho e misture bem antes de servir."
+   },
+   {
+     "nome": "Sopa de Legumes",
+     "tempo_de_cozimento": "40 minutos",
+     "ingredientes": [
+       "2 cenouras picadas",
+       "2 batatas picadas",
+       "1 abobrinha picada",
+       "1 cebola picada",
+       "2 dentes de alho picados",
+       "1 litro de caldo de legumes",
+       "1/2 xícara de macarrão para sopa",
+       "1 colher de sopa de azeite de oliva",
+       "Salsinha picada a gosto",
+       "Sal e pimenta a gosto"
+     ],
+     "modo_de_preparo": "Em uma panela grande, refogue a cebola e o alho no azeite até dourarem. Adicione as cenouras, batatas e abobrinha e refogue por alguns minutos. Despeje o caldo de legumes e deixe cozinhar em fogo médio até que os legumes estejam macios. Adicione o macarrão e cozinhe por mais alguns minutos até que esteja cozido. Tempere com sal e pimenta a gosto. Sirva quente, decorado com salsinha picada."
+   },
+   {
+     "nome": "Pudim de Leite Condensado",
+     "tempo_de_cozimento": "1 hora e 30 minutos",
+     "ingredientes": [
+       "1 lata de leite condensado",
+       "2 latas de leite (use a lata de leite condensado vazia para medir)",
+       "3 ovos",
+       "1 xícara de açúcar",
+       "1/2 xícara de água"
+     ],
+     "modo_de_preparo": "Em um liquidificador, bata o leite condensado, o leite e os ovos até obter uma mistura homogênea. Em uma forma de pudim, derreta o açúcar com a água até formar uma calda caramelizada. Despeje a mistura do liquidificador sobre a calda caramelizada na forma. Cubra com papel-alumínio e asse em banho-maria em forno preaquecido a 180°C por aproximadamente 1 hora e 30 minutos ou até que o pudim esteja firme. Deixe esfriar e leve à geladeira por algumas horas antes de desenformar e servir."
+   },
+   {
+     "nome": "Carne de Sol com Macaxeira",
+     "tempo_de_cozimento": "2 horas",
+     "ingredientes": [
+       "500g de carne de sol",
+       "500g de macaxeira (mandioca) descascada e cortada em pedaços",
+       "2 cebolas cortadas em rodelas",
+       "3 dentes de alho picados",
+       "Pimenta-de-cheiro a gosto",
+       "Coentro picado a gosto",
+       "Azeite de oliva"
+     ],
+     "modo_de_preparo": "Deixe a carne de sol de molho em água por algumas horas, trocando a água algumas vezes para dessalgar. Em uma panela de pressão, cozinhe a carne com água suficiente para cobri-la, até ficar macia. Escorra e corte em pedaços. Em outra panela, cozinhe a macaxeira até ficar macia. Em uma frigideira, refogue a cebola e o alho no azeite. Adicione a carne e a pimenta-de-cheiro e refogue por alguns minutos. Sirva a carne de sol acompanhada da macaxeira cozida e polvilhada com coentro picado."
+   },
+   {
+     "nome": "Brigadeiro",
+     "tempo_de_cozimento": "20 minutos",
+     "ingredientes": [
+       "1 lata de leite condensado",
+       "3 colheres de sopa de chocolate em pó",
+       "1 colher de sopa de manteiga",
+       "Granulado de chocolate para decorar"
+     ],
+     "modo_de_preparo": "Em uma panela, misture o leite condensado, o chocolate em pó e a manteiga. Leve ao fogo baixo, mexendo sempre, até desgrudar do fundo da panela e obter uma consistência de brigadeiro. Despeje a massa em um prato untado com manteiga e deixe esfriar. Faça bolinhas com as mãos untadas e passe no granulado de chocolate. Sirva em forminhas de papel."
+   },
+   {
+     "nome": "Feijoada",
+     "tempo_de_cozimento": "4 horas",
+     "ingredientes": [
+       "500g de feijão preto",
+       "200g de carne seca",
+       "200g de linguiça calabresa",
+       "200g de lombo de porco",
+       "200g de costelinha de porco",
+       "2 folhas de louro",
+       "1 cebola picada",
+       "4 dentes de alho picados",
+       "Sal e pimenta a gosto",
+       "Farinha de mandioca, arroz branco, couve e laranja para acompanhar"
+     ],
+     "modo_de_preparo": "Deixe o feijão de molho por algumas horas. Cozinhe a carne seca em água fervente por 30 minutos e escorra. Em uma panela grande, refogue a cebola e o alho até dourarem. Adicione o feijão, as carnes, as folhas de louro, sal, pimenta e cubra com água. Cozinhe em fogo baixo por cerca de 3 horas ou até que o feijão esteja macio e o caldo encorpado. Sirva acompanhado de arroz branco, farofa, couve refogada e laranja."
+   },
+   {
+     "nome": "Moqueca de Peixe",
+     "tempo_de_cozimento": "40 minutos",
+     "ingredientes": [
+       "500g de filé de peixe (robalo, badejo ou dourado)",
+       "1 pimentão verde cortado em rodelas",
+       "1 pimentão vermelho cortado em rodelas",
+       "1 cebola cortada em rodelas",
+       "2 dentes de alho picados",
+       "2 tomates cortados em rodelas",
+       "200ml de leite de coco",
+       "200ml de caldo de peixe",
+       "Coentro picado a gosto",
+       "Azeite de dendê",
+       "Azeite de oliva",
+       "Sal e pimenta a gosto"
+     ],
+     "modo_de_preparo": "Tempere o peixe com sal e pimenta a gosto. Em uma panela grande, refogue a cebola e o alho no azeite de oliva. Adicione os pimentões e os tomates e refogue por alguns minutos. Acrescente o leite de coco e o caldo de peixe. Deixe ferver por alguns minutos. Coloque o peixe na panela e cozinhe em fogo baixo até que esteja cozido. Antes de desligar o fogo, adicione o azeite de dendê e o coentro picado. Sirva a moqueca acompanhada de arroz branco e pirão de peixe."
+   },
+   {
+     "nome": "Bobó de Camarão",
+     "tempo_de_cozimento": "1 hora",
+     "ingredientes": [
+       "500g de camarão descascado",
+       "500g de mandioca descascada e cortada em pedaços",
+       "1 cebola picada",
+       "3 dentes de alho picados",
+       "2 tomates picados",
+       "1 pimentão picado",
+       "1 vidro de leite de coco (200ml)",
+       "Coentro picado a gosto",
+       "Azeite de oliva",
+       "Pimenta malagueta a gosto",
+       "Sal a gosto"
+     ],
+     "modo_de_preparo": "Cozinhe a mandioca em água com sal até ficar macia. Escorra a água e amasse a mandioca até obter um purê. Em uma panela, refogue a cebola e o alho no azeite de oliva. Adicione o pimentão e os tomates e refogue por alguns minutos. Acrescente o camarão e cozinhe até que esteja rosa. Tempere com sal e pimenta malagueta a gosto. Adicione o purê de mandioca e o leite de coco, mexendo bem até ficar cremoso. Por último, adicione o coentro picado. Sirva o bobó acompanhado de arroz branco."
+   },
+   {
+     "nome": "Tapioca com Coco e Manteiga de Garrafa",
+     "tempo_de_cozimento": "15 minutos",
+     "ingredientes": [
+       "500g de goma de tapioca hidratada",
+       "100g de coco ralado fresco",
+       "Manteiga de garrafa a gosto",
+       "Leite condensado a gosto"
+     ],
+     "modo_de_preparo": "Em uma frigideira antiaderente, coloque uma porção da goma de tapioca e espalhe até formar uma camada fina. Deixe cozinhar em fogo baixo por alguns minutos até que a tapioca fique unida. Adicione o coco ralado por cima e dobre a tapioca ao meio, formando uma meia lua. Deixe cozinhar por mais alguns minutos até que o coco esteja incorporado à tapioca. Retire do fogo e sirva quente, acompanhado de manteiga de garrafa e leite condensado a gosto."
+   },
+   {
+     "nome": "Baião de Dois",
+     "tempo_de_cozimento": "1 hora",
+     "ingredientes": [
+       "1 xícara de feijão verde",
+       "1 xícara de arroz",
+       "100g de queijo coalho picado",
+       "100g de carne de sol dessalgada e desfiada",
+       "1 cebola picada",
+       "2 dentes de alho picados",
+       "Coentro picado a gosto",
+       "Manteiga de garrafa a gosto",
+       "Pimenta-de-cheiro a gosto",
+       "Sal a gosto"
+     ],
+     "modo_de_preparo": "Cozinhe o feijão verde até ficar macio. Escorra e reserve. Em outra panela, cozinhe o arroz em água com sal até ficar pronto. Em uma frigideira, refogue a cebola e o alho na manteiga de garrafa. Adicione a carne de sol desfiada e refogue por alguns minutos. Acrescente o feijão verde cozido e o queijo coalho. Tempere com sal e pimenta-de-cheiro a gosto. Misture o arroz ao restante dos ingredientes na frigideira e cozinhe por mais alguns minutos, mexendo bem para incorporar os sabores. Finalize com coentro picado por cima. Sirva o baião de dois bem quente."
+   },
+   {
+     "nome": "Coxinha",
+     "tempo_de_cozimento": "1 hora",
+     "ingredientes": [
+       "500g de peito de frango cozido e desfiado",
+       "1 cebola picada",
+       "3 dentes de alho picados",
+       "2 colheres de sopa de manteiga",
+       "500ml de caldo de frango",
+       "500g de farinha de trigo",
+       "Sal a gosto",
+       "Pimenta a gosto",
+       "Farinha de rosca e ovos batidos para empanar",
+       "Óleo para fritar"
+     ],
+     "modo_de_preparo": "Em uma panela, refogue a cebola e o alho na manteiga até dourarem. Adicione o frango desfiado e refogue por alguns minutos. Acrescente o caldo de frango, sal, pimenta e deixe cozinhar até o caldo secar. Adicione a farinha de trigo de uma vez e mexa até desgrudar do fundo da panela. Deixe esfriar. Modele as coxinhas com o recheio e empane passando por ovos batidos e farinha de rosca. Frite em óleo quente até dourarem."
+   },
+   {
+     "nome": "Acarajé",
+     "tempo_de_cozimento": "1 hora e 30 minutos (considerando o tempo de molho do feijão)",
+     "ingredientes": [
+       "500g de feijão fradinho",
+       "1 cebola picada",
+       "3 dentes de alho picados",
+       "Pimenta malagueta a gosto",
+       "Sal a gosto",
+       "Azeite de dendê para fritar",
+       "Vatapá e camarão seco para rechear"
+     ],
+     "modo_de_preparo": "Deixe o feijão de molho em água por algumas horas. Escorra a água e bata o feijão no liquidificador com a cebola, o alho, a pimenta e o sal até obter uma massa homogênea. Em uma panela, aqueça o azeite de dendê e frite colheradas da massa até dourarem. Retire do óleo e escorra em papel absorvente. Corte os acarajés ao meio, recheie com vatapá e camarão seco. Sirva a seguir."
+   }
+ ]
